@@ -2,7 +2,7 @@
 
 ## Introduction
 
-User flow diagrams are a useful tool to map out what users when navigating through a digital service. GOV.UK services use a common set of page patterns, so a small set of common page types can be used to map out a wide variety of service journeys. 
+User flow diagrams are a useful tool to map out what users see when navigating through a digital service. GOV.UK services use a common set of page patterns, so a small set of common page types can be used to map out a wide variety of service journeys. 
 
 This repository provides a set of high-res icons for use when mapping out GOV.UK user flows.
 
