@@ -1,4 +1,11 @@
-![Introduction](/intro.svg)
+# GOV.UK Userflow Icons
+
+High resolution vector (SVG) icons to help you create user flow diagrams. This repository includes:
+
+- Mobile and desktop icons
+- Example PowerPoint template
+
+![Screenshot](screenshot.png)
 
 ## Introduction
 
